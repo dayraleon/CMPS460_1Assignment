@@ -22,4 +22,4 @@ In modern computing environments, efficient process scheduling is crucial for op
 ## Output
 The application will output the scheduling results for each algorithm in a tabular format. Below is an example output image:
 
-![Alt text](CMPS460_1Assignment/ouput.png)
+![Alt text](ouput.png)
